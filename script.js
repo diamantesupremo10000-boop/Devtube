@@ -27,7 +27,7 @@ const projects = [
         views: "2.5k vistas",
         date: "hace 3 semanas",
         duration: "Express",
-        thumbnail: "https://via.placeholder.com/640x360/c0392b/ffffff?text=Finance+Tracker",
+        thumbnail: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Manual_de_finanzas_personales_y_familia_041.jpg",
         url: "https://mi-finanzas-app-0xs8.onrender.com",
         avatarColor: "#e74c3c"
     }
