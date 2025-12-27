@@ -7,7 +7,7 @@ const projects = [
         views: "1.2k vistas",
         date: "hace 2 días",
         duration: "Node.js",
-        thumbnail: "Devtube/script.js/Microsoft_To-Do_icon.svg.png55a3&query=To+do+listc7-b908-d5e7c26755a3&query=To+do+list", 
+        thumbnail: "https://share.google/mXr0z3UEVCnSwEl54", 
         url: "https://to-do-list-92jq.onrender.com",
         avatarColor: "#2ecc71"
     },
