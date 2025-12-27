@@ -17,7 +17,7 @@ const projects = [
         views: "850 vistas",
         date: "hace 1 semana",
         duration: "SQLite",
-        thumbnail: "https://via.placeholder.com/640x360/8e44ad/ffffff?text=Blog+Markdown",
+        thumbnail: "https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg",
         url: "https://mi-blog-personal-e17g.onrender.com",
         avatarColor: "#9b59b6"
     },
