@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Portafolio Full-Stack</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <div class="start">
+            <span class="material-icons menu-icon">menu</span>
+            <div class="logo">
+                <span class="material-icons youtube-icon">play_circle_filled</span>
+                <span>DevTube</span>
+            </div>
+        </div>
+        
+        <div class="center">
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Buscar proyectos...">
+                <button class="search-btn">
+                    <span class="material-icons">search</span>
+                </button>
+            </div>
+        </div>
+
+        <div class="end">
+            <span class="material-icons icon-btn">video_call</span>
+            <span class="material-icons icon-btn">apps</span>
+            <span class="material-icons icon-btn">notifications</span>
+            <div class="profile-icon">YO</div>
+        </div>
+    </header>
+
+    <div class="main-body">
+        
+        <aside class="sidebar">
+            <div class="nav-link active">
+                <span class="material-icons">home</span>
+                <span>Inicio</span>
+            </div>
+            <div class="nav-link">
+                <span class="material-icons">code</span>
+                <span>Código</span>
+            </div>
+            <div class="nav-link">
+                <span class="material-icons">subscriptions</span>
+                <span>Proyectos</span>
+            </div>
+            <hr>
+            <div class="nav-link">
+                <span class="material-icons">video_library</span>
+                <span>Biblioteca</span>
+            </div>
+            <div class="nav-link">
+                <span class="material-icons">history</span>
+                <span>Historial</span>
+            </div>
+        </aside>
+
+        <main class="content">
+            <div class="categories">
+                <button class="cat-btn active">Todos</button>
+                <button class="cat-btn">Full Stack</button>
+                <button class="cat-btn">Frontend</button>
+                <button class="cat-btn">Backend</button>
+                <button class="cat-btn">SQLite</button>
+            </div>
+
+            <div id="videoGrid" class="video-grid">
+                </div>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
