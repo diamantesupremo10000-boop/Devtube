@@ -7,7 +7,7 @@ const projects = [
         views: "1.2k vistas",
         date: "hace 2 días",
         duration: "Node.js",
-        thumbnail: "https://share.google/mXr0z3UEVCnSwEl54", 
+        thumbnail: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Microsoft_To-Do_icon.svg", 
         url: "https://to-do-list-92jq.onrender.com",
         avatarColor: "#2ecc71"
     },
