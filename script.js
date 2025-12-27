@@ -7,7 +7,7 @@ const projects = [
         views: "1.2k vistas",
         date: "hace 2 días",
         duration: "Node.js",
-        thumbnail: "https://www.freepik.es/vector-gratis/lista-fondo-naranja-azul_15695272.htm#fromView=keyword&page=1&position=0&uuid=4f3d3ec5-1a44-45c7-b908-d5e7c26755a3&query=To+do+list", 
+        thumbnail: "https://www.freepik.es/vector-gratis/lista-fondo-naranja-azul_15695272.htm#fromView=keyword&page=1&position=0&uuid=4f3d3ec5-1a44-45c7-b908-d5e7c26755a3&query=To+do+listc7-b908-d5e7c26755a3&query=To+do+list", 
         url: "https://to-do-list-92jq.onrender.com",
         avatarColor: "#2ecc71"
     },
